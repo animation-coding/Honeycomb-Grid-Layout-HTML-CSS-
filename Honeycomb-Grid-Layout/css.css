@@ -15,7 +15,6 @@ body
   display: -webkit-box;
   display: flex;
   flex-wrap: wrap;
-  list-style: none;
   -webkit-box-pack: center;
   justify-content: center;
   -webkit-box-align: center;
